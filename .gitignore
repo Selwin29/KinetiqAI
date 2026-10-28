@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+
+# Environments
+.env
+.env.*
+*.env
+!.env.example
+.venv
+env/
+venv/
+ENV/
+
